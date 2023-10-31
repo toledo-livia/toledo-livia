@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l%C3%ADvia-toledo-3a3359146/)](https://www.linkedin.com/in/l%C3%ADvia-toledo-3a3359146/) 
 
-I'm a Software Engineer focused on Front-End development, I'm 22 years old and based in Brazil. I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.ultragaz.com.br">Ultragaz</a>, <a href="https://www.iclubs.tech">iClubs</a>, <a href="https://zappts.com">Zappts</a>, <a href="https://sorteonline.com.br">Sorte Online</a>, <a href="https://cea.com.br">C&A</a>...
+I'm a Software Engineer focused on Front-End development, I'm 24 years old and based in Brazil. I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.ultragaz.com.br">Ultragaz</a>, <a href="https://www.iclubs.tech">iClubs</a>, <a href="https://zappts.com">Zappts</a>, <a href="https://sorteonline.com.br">Sorte Online</a>, <a href="https://cea.com.br">C&A</a>...
 
 **Languages and Tools 🚀**
 
